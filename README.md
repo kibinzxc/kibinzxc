@@ -7,7 +7,7 @@
 ### 🎯 Focus Areas  
 - Web Application Quality  
 - Test Planning & Documentation  
-- Automation Scripting (Playwright, Jest)  
+- Automation Scripting (Playwright)  
 - Regression & End-to-End Testing  
 
 ### 🔍 Interests  
