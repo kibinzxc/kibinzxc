@@ -1,4 +1,4 @@
-## 👨‍💻 Software QA Tester | QA Engineer
+## 👨‍💻 Software QA Engineer
 
 ### 🧠 Skills & Expertise
 
