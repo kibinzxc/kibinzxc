@@ -1,4 +1,7 @@
-## 👨‍💻  Software QA Engineer | Software QA Tester (Manual & Automation) | Full Stack Web Developer
+## 👨‍💻 QA Engineer | Software QA Tester (Manual & Automation) | Full Stack Web Developer
+
+
+
 
 
 ### 🧠 Skills & Expertise
