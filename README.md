@@ -1,4 +1,5 @@
-## 👨‍💻 Software QA Engineer
+## 👨‍💻 Software QA Tester (Manual & Automation) | Full Stack Web Developer
+### Long term Goal: Software QA Engineer
 
 ### 🧠 Skills & Expertise
 
