@@ -58,7 +58,7 @@
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect
 
 <div align="center">
 
