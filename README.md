@@ -23,11 +23,11 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🎭 E2E automation</h3>
+      <h3>🎭 E2E Automation</h3>
       <p>Playwright test suites across web platforms with TypeScript and JavaScript</p>
     </td>
     <td width="50%">
-      <h3>🔌 API & integration testing</h3>
+      <h3>🔌 API & Integration Testing</h3>
       <p>REST API validation, request/response assertion, and contract testing</p>
     </td>
   </tr>
@@ -37,7 +37,7 @@
       <p>GitHub Actions pipelines for automated test runs on every deployment</p>
     </td>
     <td width="50%">
-      <h3>🐛 Bug investigation</h3>
+      <h3>🐛 Bug Investigation</h3>
       <p>Root cause analysis using Sentry, Jam, and network/console diagnostics</p>
     </td>
   </tr>
